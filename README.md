@@ -1,5 +1,5 @@
-### jpoirier1.github.com
-# My Personal Website
+# jpoirier1.github.com
+### My Personal Website
 
 *** IN PROGRESS ***
 
