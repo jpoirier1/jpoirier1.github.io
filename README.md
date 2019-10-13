@@ -1,4 +1,4 @@
-# jpoirier1.github.com
+# jpoirier1.github.io
 ### My Personal Website
 
 *** IN PROGRESS ***
