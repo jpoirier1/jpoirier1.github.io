@@ -8,5 +8,6 @@ Just some random html/css/javascript practice I am setting up to showcase some o
 #### Things to add:
  - Page to PROVE Car
  - Update photos to scale with resizing windows
- - Include digital resume
+ - Include digital resume (maybe)
  - Writeup on my goals and job searching
+ - React
