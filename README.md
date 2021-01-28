@@ -1,12 +1,6 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
+## Projet
 
-[Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
-## Preview
-
-[![Grayscale Preview](https://assets.startbootstrap.com/img/screenshots/themes/grayscale.png)](https://startbootstrap.github.io/startbootstrap-grayscale/)
-
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-grayscale/)**
+I am working on creating our wedding website! It is currently a work in progress so stay tuned for future updates.
 
 ## Status
 
