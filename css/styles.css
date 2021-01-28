@@ -10207,7 +10207,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 0%;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/cute1.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.5) 65%, #000000 100%), url("../assets/img/cute1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10218,7 +10218,7 @@ body {
   font-size: 3rem;
   line-height: 2.5rem;
   letter-spacing: 0.1rem;
-  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+  background: linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.5));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
           background-clip: text;
@@ -10236,12 +10236,13 @@ body {
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
-    padding: 0;
+    padding: 0%;
   }
   .masthead h1 {
     font-size: 6.5rem;
     line-height: 6.5rem;
-    letter-spacing: 0.8rem;
+    letter-spacing: 0.6rem;
+    padding: 20% 0% 0% 0%;
   }
   .masthead h2 {
     max-width: 30rem;
@@ -10251,7 +10252,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 1) 100%, rgba(0, 0, 0, 1) 100%);
 }
 .about-section p {
   margin-bottom: 5rem;
